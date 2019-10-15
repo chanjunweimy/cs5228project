@@ -1,0 +1,10 @@
+jupyter
+numpy
+scipy
+scikit-learn
+pandas
+seaborn
+matplotlib
+tsfresh
+git+git://github.com/keras-team/autokeras@master#egg=autokeras 
+keras
