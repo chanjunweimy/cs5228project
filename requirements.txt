@@ -8,3 +8,4 @@ matplotlib
 tsfresh
 git+git://github.com/keras-team/autokeras@master#egg=autokeras 
 keras
+xgboost
