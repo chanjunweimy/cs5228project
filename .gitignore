@@ -2,3 +2,4 @@
 test/
 train/
 .ipynb_checkpoints/
+*.gzip
