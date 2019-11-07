@@ -7,7 +7,9 @@ seaborn
 matplotlib
 tsfresh
 git+git://github.com/keras-team/autokeras@master#egg=autokeras 
+git+git://github.com/jundongl/scikit-feature@master
 keras
 xgboost
 fastparquet 
 pyarrow 
+hyperopt
